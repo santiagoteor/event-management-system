@@ -1,0 +1,20 @@
+[
+  {
+    "model": "eventlab4.event",
+    "fields": {
+      "name": "Cloud Services Workshop",
+      "date": "2024-11-04",
+      "location": "Skelleftea",
+      "description": "Presentation of papers by students in cloud related subjects."
+    }
+  },
+  {
+    "model": "eventlab4.event",
+    "fields": {
+      "name": "Thesis presentation workshop",
+      "date": "2025-12-12",
+      "location": "Skelleftea",
+      "description": "Thesis progress presentations, 2 day workshop."
+    }
+  }
+]
